@@ -3,3 +3,8 @@ This project analyzes survey data to explore workplace dynamics, including workâ
 
 Note: Please note that Power BI Desktop is required to open and interact with this dashboard.
 
+## Dashboard Preview
+
+![Dashboard Preview](Dashboard%20Preview.png)
+
+
